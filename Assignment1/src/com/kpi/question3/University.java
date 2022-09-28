@@ -18,9 +18,9 @@ public class University {
 			
 		}
 		//constructor2
-		public University(int height)
+		public University(int rank)
 		{
-			this.classNo=height;
+			this.rank=rank;
 		}
 		//constructor3
 		public University(int classNo,int marks)
