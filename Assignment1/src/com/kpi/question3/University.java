@@ -34,7 +34,7 @@ public class University {
 		System.out.println("Class Number is "+ classNo +"th");
 		System.out.println("Marks are "+ marks + "%");
 	}
-	@SuppressWarnings("unused")
+	
 	public static void main(String[] args) {
 		University obj1 = new University(4,72); //obj1
 		University obj2 = new University(10,51); //obj2
