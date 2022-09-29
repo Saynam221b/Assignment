@@ -6,4 +6,6 @@ package com.kpi.question3;
  */
 public class Mobile {
 	String brand = "Nokia";
-}
+	
+	int ram = 6;
+	}
